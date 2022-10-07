@@ -28,7 +28,7 @@ This is a web based application developed for earth related  website in india
 ![image 2](https://user-images.githubusercontent.com/115135324/194542323-e4f8c39b-a546-4e1e-99fa-b3c7c6eb9444.png)
    
 
-### About Us -
+## disclaimer -
 
 
 
